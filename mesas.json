@@ -1,0 +1,55 @@
+{
+    "mesas": [
+      {
+        "id": 1,
+        "valor_consumido": 0,
+        "produtos": []
+      },
+      {
+        "id": 2,
+        "valor_consumido": 0,
+        "produtos": []
+      },
+      {
+        "id": 3,
+        "valor_consumido": 0,
+        "produtos": []
+      },
+      {
+        "id": 4,
+        "valor_consumido": 0,
+        "produtos": []
+      },
+      {
+        "id": 5,
+        "valor_consumido": 0,
+        "produtos": []
+      },
+      {
+        "id": 6,
+        "valor_consumido": 0,
+        "produtos": []
+      },
+      {
+        "id": 7,
+        "valor_consumido": 0,
+        "produtos": []
+      },
+      {
+        "id": 8,
+        "valor_consumido": 0,
+        "produtos": []
+      },
+      {
+        "id": 9,
+        "valor_consumido": 0,
+        "produtos": []
+      },
+      {
+        "id": 10,
+        "valor_consumido": 0,
+        "produtos": []
+      }
+    ]
+  }
+  

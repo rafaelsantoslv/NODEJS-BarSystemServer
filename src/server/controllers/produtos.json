@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "nome": "Café Expresso",
+        "valor": 3.50
+    },
+    {
+        "id": 2,
+        "nome": "Café com Leite",
+        "valor": 4.00
+    },
+    {
+        "id": 3,
+        "nome": "Cappuccino",
+        "valor": 5.00
+    },
+    {
+        "id": 4,
+        "nome": "Macchiato",
+        "valor": 4.50
+    },
+    {
+        "id": 5,
+        "nome": "Mocha",
+        "valor": 6.00
+    },
+    {
+        "id": 6,
+        "nome": "Latte",
+        "valor": 4.50
+    },
+    {
+        "id": 7,
+        "nome": "Chá de Camomila",
+        "valor": 3.00
+    },
+    {
+        "id": 8,
+        "nome": "Chá de Hortelã",
+        "valor": 3.00
+    },
+    {
+        "id": 9,
+        "nome": "Croissant",
+        "valor": 3.50
+    },
+    {
+        "id": 10,
+        "nome": "Muffin de Blueberry",
+        "valor": 4.50
+    },
+    {
+        "id": 11,
+        "nome": "Sanduíche de Presunto e Queijo",
+        "valor": 5.50
+    },
+    {
+        "id": 12,
+        "nome": "Bolo de Chocolate",
+        "valor": 4.00
+    },
+    {
+        "id": 13,
+        "nome": "Torta de Maçã",
+        "valor": 5.00
+    },
+    {
+        "id": 14,
+        "nome": "Cookies de Aveia",
+        "valor": 2.50
+    },
+    {
+        "id": 15,
+        "nome": "Bebida Gelada de Café",
+        "valor": 6.50
+    }
+]
